@@ -6,3 +6,5 @@ gnkjfdbng
 ngjkfdng
 ngjkdf
 gdohgnfgnl
+public static void main(String[] args)
+Systemm.out.println(333)
